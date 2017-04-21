@@ -1,6 +1,6 @@
 -- Copyright (C) by Yichun Zhang (agentzh)
---我勒个擦啊啊
 
+--呵呵我🙄
 --local asn1 = require "resty.asn1"
 local ffi = require "ffi"
 local ffi_new = ffi.new
